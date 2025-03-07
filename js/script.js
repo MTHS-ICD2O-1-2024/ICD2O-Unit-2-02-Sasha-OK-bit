@@ -8,5 +8,5 @@
  * Displays an alert with the message "Hello, World!"
  */
 function myButtonClicked() {
-  alert("Hello, World!")
+  document.getElementById
 }
